@@ -1,6 +1,6 @@
 ```javascript
 const Dominic = {
-  code: [Javascript, HTML, CSS, Python, PostgreSQL],
+  code: [JavaScript, HTML, CSS, Python, PostgreSQL],
   tools: [React, Node, Styled-Components, WordPress],
   external: {
     LinkedIn: "www.linkedin.com/in/dominic-clerici/",
