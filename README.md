@@ -13,6 +13,5 @@ const Dominic = {
     major: "Computer Science",
     minor: "Business"
   },
-  challenge: "Diving into the world of leetcode!"
 }
 ```
